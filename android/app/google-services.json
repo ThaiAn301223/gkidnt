@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1049245256739",
+    "firebase_url": "https://vuthaian-213e6-default-rtdb.firebaseio.com",
+    "project_id": "vuthaian-213e6",
+    "storage_bucket": "vuthaian-213e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049245256739:android:db0a2d7a1b4aee53af7596",
+        "android_client_info": {
+          "package_name": "com.example.ungdunggiuaki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpk1BPGYCgxFZsCAoEOlimntkH84XV3L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
